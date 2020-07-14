@@ -1,0 +1,6 @@
+Sources:
+
+User: bass3l
+Date: March 6th, 2020
+Type: StackOverflow Post
+Web address: https://stackoverflow.com/questions/60567710/fetch-data-from-newsapi-react-axios
